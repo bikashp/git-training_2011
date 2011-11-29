@@ -23,6 +23,6 @@ header form{
 	float:right;
 	margin: 20px 0 0;
 }
-header form input[type:searc]{
+#search{
 	border: 1px solid green;
 }
