@@ -9,9 +9,9 @@ ul.menuBar{
     display:inline;
 }
 header{
-		background-color:#000;
+		background-color:#4939F7;
 		float:left;
-		width:960px;
+		width:940px;
 		padding:10px;
 }
 header h1{
@@ -24,5 +24,7 @@ header form{
 	margin: 20px 0 0;
 }
 #search{
+	-moz-border-radius: 15px;
+	border-radius: 15px;
 	border: 1px solid green;
 }
