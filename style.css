@@ -13,11 +13,12 @@ ul.menuBar{
 }                    
 #commits_container{  
   float:left;
-  width:500px;
+  width:500px;  
 }             
-#commits_container header{
-  font-size:18px !important;
-  background-color:#fff;
+#commits_container #commit_header{
+  font-size:18px;
+  padding:10px 10px;
+  
 }               
 #commits_container .commit{ 
   background-color:#cacaca;   
@@ -97,6 +98,7 @@ aside{
   -webkit-border-radius:8px;
   width:220px;
   border: 1px solid #6C70F0;
+  float : right;
 
 }
 aside ul{
@@ -121,17 +123,11 @@ aside h3{
 }
 
 header{
-<<<<<<< HEAD
 		background-color:#4939F7;
 		float:left;
 		width:940px;
 		padding:10px;
-=======
-  background-color:#4939F7;
-  float:left;
-  width:940px;
-  padding:10px;
->>>>>>> 09b26d9a51d56e3f1328ae28df05f7d0bbe2492f
+
 }
 header h1{
   color:#ddd;
@@ -143,17 +139,10 @@ header form{
   margin: 20px 0 0;
 }
 #search{
-<<<<<<< HEAD
 	-moz-border-radius: 15px;
 	border-radius: 15px;
 	border: 1px solid green;
 
-}
-
-=======
-  -moz-border-radius: 15px;
-  border-radius: 15px;
-  border: 1px solid green;
 }
 
 footer a:hover {
@@ -168,7 +157,6 @@ footer {
   width:960px;
   background-color:#ffbbcc;
   text-align: center;
-  float:left;
+  clear:both;;
 }
 
->>>>>>> 09b26d9a51d56e3f1328ae28df05f7d0bbe2492f
