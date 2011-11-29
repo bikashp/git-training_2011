@@ -2,6 +2,9 @@ body{
   margin:0;
   padding:0;
 }
+nav{
+  width:960px;
+}
 ul.menuBar{
   lisyt-style:none;
 }  
@@ -36,8 +39,70 @@ ul.menuBar{
   padding:0;
   margin:0;    
   margin-bottom:5px;
-  
 }    
 .commit_time{
   padding-top:10px;
+} 
+ul.menuBar ul{
+  position:absolute;
+  width:90px;
+  left:0;
+  background-color:#4183C4;
+  padding:10px;
+  display:none;
 }
+ul.menuBar ul li a:hover{
+  background-color:#999;
+  border-radius: 8px;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+}
+ul.menuBar li:hover ul{
+  display:block;
+}
+ul.menuBar li{
+  display:inline;
+  padding:0;
+  position:relative;
+}
+ul.menuBar li a{
+  color: #FFFFFF;
+  display: inline-block;
+  font-size: 20px;
+  padding: 8px 15px;
+  text-decoration: none;
+  text-shadow:1px 0px 1px #333;
+
+}
+ul.menuBar li a:hover{
+  background-color:#4183C4;
+  -moz-transition: all 0.5s ease-out;
+  -o-transition: all 0.5s ease-out;
+  -webkit-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out; 
+}
+ul.menuBar li:hover a{
+  background-color:#4183C4;
+}
+header{
+		background-color:#4939F7;
+		float:left;
+		width:940px;
+		padding:10px;
+}
+header h1{
+  color:#ddd;
+
+  float:left;
+}
+header form{
+  float:right;
+  margin: 20px 0 0;
+}
+#search{
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	border: 1px solid green;
+
+}
+
