@@ -1,0 +1,10 @@
+body{
+  margin:0;
+  padding:0;
+}
+ul.menuBar{
+  lisyt-style:none;
+}  
+ul.menuBar{
+    display:inline;
+}
