@@ -8,6 +8,7 @@ ul.menuBar{
 ul.menuBar{
     display:inline;
 }
+
 #main{
 	width:960px;
 }
@@ -41,3 +42,23 @@ aside h3{
 .sidebar li a:hover{
 	color:#EDEEF5;
 }
+
+header{
+		background-color:#000;
+		float:left;
+		width:960px;
+		padding:10px;
+}
+header h1{
+	color:#ddd;
+
+	float:left;
+}
+header form{
+	float:right;
+	margin: 20px 0 0;
+}
+#search{
+	border: 1px solid green;
+}
+
