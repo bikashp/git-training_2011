@@ -7,4 +7,23 @@ ul.menuBar{
 }  
 ul.menuBar{
     display:inline;
+}                    
+#commits_container{
+  float:left;
+  width:500px;
+}             
+#commits_container header{
+  font-size:18px;
+}               
+#commits_container .commit{
+  width:550px;
+  padding:25px;
+}
+.commit img{
+  float:left;
+  width:80px;
+  height:80px;
+}             
+.commit_text{
+  float:left;
 }
