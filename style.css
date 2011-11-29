@@ -8,3 +8,36 @@ ul.menuBar{
 ul.menuBar{
     display:inline;
 }
+#main{
+	width:960px;
+}
+aside{
+	padding:10px;
+	background-color:#abcdef;
+	border-radius:8px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	width:220px;
+	border: 1px solid #6C70F0;
+	
+}
+aside ul{
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+aside h3{
+	color:#802B12;
+	text-decoration: underline;
+}
+.sidebar li{
+	border-bottom:1px dashed #999;
+	padding:4px;
+}
+.sidebar li a{
+	text-decoration:none;
+	color:#333;
+}
+.sidebar li a:hover{
+	color:#EDEEF5;
+}
