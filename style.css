@@ -55,17 +55,10 @@ ul.menuBar li:hover a{
   background-color:#4183C4;
 }
 header{
-<<<<<<< HEAD
 		background-color:#4939F7;
 		float:left;
 		width:940px;
 		padding:10px;
-=======
-  background-color:#000;
-  float:left;
-  width:960px;
-  padding:10px;
->>>>>>> 36cbdd1dcb6b7c32c64a2e833bde92be4f8e28cf
 }
 header h1{
   color:#ddd;
@@ -77,11 +70,7 @@ header form{
   margin: 20px 0 0;
 }
 #search{
-<<<<<<< HEAD
 	-moz-border-radius: 15px;
 	border-radius: 15px;
 	border: 1px solid green;
-=======
-  border: 1px solid green;
->>>>>>> 36cbdd1dcb6b7c32c64a2e833bde92be4f8e28cf
 }
