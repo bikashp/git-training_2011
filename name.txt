@@ -1,10 +1,8 @@
 
-
-
-1>jitendra
 2>Niroj Shrestha
 3>Presha Rajbhandary
 4.SHREY
+<<<<<<< HEAD
 5.>Rohit
 Bashanta
 
@@ -17,4 +15,12 @@ Ashish Bista
 Sagar Shreshtha
 
 pratuat amatya
+
+
+5.>Rohit	
+Lujaw Shrestha
+Bashanta		
+Ashish Bista
+Sagar Shreshtha
+
 
