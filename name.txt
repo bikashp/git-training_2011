@@ -1,8 +1,8 @@
-1>Jitendra
-2>Niroj Shrestha
-3>Presha Rajbhandary
-4.SHREY
-5.>Rohit
+Jitendra
+Niroj Shrestha
+Presha Rajbhandary
+SHREY
+Rohit
 Bashanta
 Ashish Bista
 Sagar Shreshtha
