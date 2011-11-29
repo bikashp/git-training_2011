@@ -16,7 +16,8 @@ ul.menuBar{
   width:500px;
 }             
 #commits_container header{
-  font-size:18px;
+  font-size:18px !important;
+  background-color:#fff;
 }               
 #commits_container .commit{ 
   background-color:#cacaca;   
