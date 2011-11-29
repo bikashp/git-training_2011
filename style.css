@@ -8,22 +8,36 @@ ul.menuBar{
 ul.menuBar{
     display:inline;
 }                    
-#commits_container{
+#commits_container{  
   float:left;
   width:500px;
 }             
 #commits_container header{
   font-size:18px;
 }               
-#commits_container .commit{
-  width:550px;
-  padding:25px;
+#commits_container .commit{ 
+  background-color:#cacaca;   
+  width:550px;        
+  height:45px;
+  margin-top: 2px;
+  padding: 10px 0 50px 10px;
 }
-.commit img{
+.commit img{ 
   float:left;
   width:80px;
   height:80px;
 }             
-.commit_text{
-  float:left;
+.commit_text{  
+  padding: 10px 0 0 90px;
+  margin-bottom:0; 
+  width:100%;    
+}          
+.commit_text h3{
+  padding:0;
+  margin:0;    
+  margin-bottom:5px;
+  
+}    
+.commit_time{
+  padding-top:10px;
 }
