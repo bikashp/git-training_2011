@@ -1,8 +1,8 @@
-
+1>Jitendra
 2>Niroj Shrestha
 3>Presha Rajbhandary
 4.SHREY
-<<<<<<< HEAD
+
 5.>Rohit
 Bashanta
 
