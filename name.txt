@@ -1,5 +1,17 @@
+<<<<<<< HEAD
 
 1>jitendra
 2>Niroj Shrestha
 3>Presha Rajbhandary
 4.SHREY
+5.>Rohit
+=======
+
+Presha Rajbhandary
+SHREY		
+Niroj Shrestha
+Presha Rajbhandary
+Niroj Shrestha
+
+
+>>>>>>> ff27c00a3306d49ddece26be4fc5773b8dfd50f6
